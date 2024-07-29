@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I am Rasya Razaqa Setiawan 💻</h1>
+<h1 align="left">Hey My Name Rasya Razaqa Setiawan 💻</h1>
 
 ###
 
