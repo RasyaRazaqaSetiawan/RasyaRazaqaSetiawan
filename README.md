@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 student at SMK Assalaam Bandung<br>🎯 In my free time, I like to play games, watch movies and play football<br>📫 Reach me:</p>
+<p align="left">📚 Student at SMK Assalaam Bandung<br>🎯 In my free time, I like to play games, watch movies and play football<br>📫 Reach me:</p>
 
 ###
 
