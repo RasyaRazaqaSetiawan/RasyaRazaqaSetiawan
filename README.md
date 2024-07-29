@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Rasya Razaqa Setiawan, 17 years old, and a student at a vocational high school specializing in software engineering. I have a passion for creating dynamic and user-friendly web applications.</p>
+<p align="left">Hello! My name Rasya Razaqa Setiawan, i'm 17 years old, and a student at a vocational high school specializing in software engineering. I have a passion for creating dynamic and user-friendly web applications.</p>
 
 ###
 
