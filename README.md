@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! My name Rasya Razaqa Setiawan, i'm 17 years old, and a student at a vocational high school specializing in software engineering. I have a passion for creating dynamic and user-friendly web applications.</p>
+<p align="left">Hello! I'm Rasya Razaqa Setiawan, 17 years old, and a student at a vocational high school specializing in software engineering. I have a passion for creating dynamic and user-friendly web applications.</p>
 
 ###
 
@@ -14,25 +14,25 @@
 
 ###
 
-<p align="left">📚 Student at SMK Assalaam Bandung<br>🎯 In my free time, I like to play games, watch movies and play football<br>📫 Reach me:</p>
+<p align="left">📚 student at SMK Assalaam Bandung<br>🎯 In my free time, I like to play games, watch movies and play football<br>📫 Reach me:</p>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rasya-razaqa-8926b930b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/rasya.razaqa.3?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/rasya.razaqa?utm_source=qr&igsh=aXEwYWJieWE3Mmxj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
   </a>
   <a href="http://discordapp.com/users/735830821742575666" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
   <a href="https://wa.link/kdpqjv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo"  />
   </a>
 </div>
 
