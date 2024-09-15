@@ -1,5 +1,4 @@
-<h1 align="left">Hey 👋 I am Rasya Razaqa Setiawan 💻<p align="right"><img src="https://komarev.com/ghpvc/?username=RasyaRazaqaSetiawan&label=Profile%20views&color=0e75b6&style=flat" alt="RasyaRazaqaSetiawan" />
-</p></h1>
+<h1 align="left">Hey 👋 I am Rasya Razaqa Setiawan 💻</h1>
 
 ###
 
