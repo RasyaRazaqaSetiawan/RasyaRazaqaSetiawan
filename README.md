@@ -7,7 +7,6 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RasyaRazaqaSetiawan&label=Profile%20views&color=0e75b6&style=flat" alt="RasyaRazaqaSetiawan" />
 </p>
-###
 
 <h2 align="left">About me</h2>
 
