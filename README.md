@@ -5,6 +5,9 @@
 <p align="left">Hello! I'm Rasya Razaqa Setiawan, 17 years old, and a student at a vocational high school specializing in software engineering. I have a passion for creating dynamic and user-friendly web applications.</p>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RasyaRazaqaSetiawan&label=Profile%20views&color=0e75b6&style=flat" alt="RasyaRazaqaSetiawan" />
+</p>
+###
 
 <h2 align="left">About me</h2>
 
