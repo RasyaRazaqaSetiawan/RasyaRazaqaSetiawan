@@ -65,7 +65,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
 <h2 align="left"></h2>
